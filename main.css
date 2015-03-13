@@ -3,25 +3,25 @@
 }
 
 .title {
-  font: bold 16px 'Malgun Gothic', sans-serif;
+  font: bold 16pt 'Malgun Gothic', sans-serif;
 }
 
 .subtitle {
-  font: 14px 'Malgun Gothic', sans-serif;
+  font: 14pt 'Malgun Gothic', sans-serif;
 }
 
 .author {
-  font: 10px 'Malgun Gothic', sans-serif;
+  font: 10pt 'Malgun Gothic', sans-serif;
 }
 
 .date {
-  font: 10px 'Malgun Gothic', sans-serif;
+  font: 10pt 'Malgun Gothic', sans-serif;
 }
 
 .body {
-  font: 12px 'Malgun Gothic', sans-serif;
+  font: 12pt 'Malgun Gothic', sans-serif;
 }
 
 .footer {
-  font: italic 10px 'Malgun Gothic', sans-serif;
+  font: italic 10pt 'Malgun Gothic', sans-serif;
 }
