@@ -1,0 +1,27 @@
+* {
+  line-height: 160%;
+}
+
+.title {
+  font: bold 16px 'Malgun Gothic', sans-serif;
+}
+
+.subtitle {
+  font: 14px 'Malgun Gothic', sans-serif;
+}
+
+.author {
+  font: 10px 'Malgun Gothic', sans-serif;
+}
+
+.date {
+  font: 10px 'Malgun Gothic', sans-serif;
+}
+
+.body {
+  font: 12px 'Malgun Gothic', sans-serif;
+}
+
+.footer {
+  font: italic 10px 'Malgun Gothic', sans-serif;
+}
